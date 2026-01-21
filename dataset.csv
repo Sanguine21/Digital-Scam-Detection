@@ -1,0 +1,18 @@
+message,label
+"Your bank account has been blocked. Click here immediately",scam
+"Congratulations! You won a lottery prize",scam
+"Update your KYC to avoid account suspension",scam
+"Earn money from home easily",scam
+"Your OTP is 456321",safe
+"Meeting scheduled at 5 PM",safe
+"Your order has been delivered",safe
+"Can we talk later?",safe
+Click here to verify your account,scam
+You won a lottery,scam
+Free recharge offer,scam
+Meeting at 5 PM,safe
+Let’s study together,safe
+Call me later,safe
+Your OTP is 1234,scam
+Congratulations you won prize,scam
+Lunch at 2 pm?,safe
