@@ -1,11 +1,11 @@
-🛡️ Digital Scam Detection System
+# 🛡️ Digital Scam Detection System
 
 A beginner-level Machine Learning project developed using Python to detect scam messages and help users identify potentially harmful content.  
 This project is created as part of my learning journey in Python, Machine Learning, and Cyber Security awareness.
 
 ---
 
-📌 Project Overview
+## 📌 Project Overview
 
 With the increasing number of online fraud such as fake messages, fraud links, and phishing attempts, it has become important to identify suspicious content early.
 
@@ -14,7 +14,7 @@ It is designed as a beginner-friendly project to understand how AI can be applie
 
 ---
 
-🎯 Objectives
+## 🎯 Objectives
 
 - Learn the basics of Machine Learning  
 - Understand text classification  
@@ -26,7 +26,7 @@ It is designed as a beginner-friendly project to understand how AI can be applie
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Python  
 - Pandas  
@@ -36,9 +36,9 @@ It is designed as a beginner-friendly project to understand how AI can be applie
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
-Digital-Scam-Detection
+Digital-Scam-Detection/
 │
 ├──> train_model.py
 ├──> scam_detector.py
@@ -49,7 +49,7 @@ Digital-Scam-Detection
 
 ---
 
-⚙️ How the Project Works
+## ⚙️ How the Project Works
 
 1. Dataset is used to train a machine learning model  
 2. Text data is converted into numerical format  
@@ -59,7 +59,7 @@ Digital-Scam-Detection
 
 ---
 
-▶️ How to Run the Project
+## ▶️ How to Run the Project
 
 ### Step 1: Install Python  
 Download python from: https://www.python.org/downloads/  
@@ -75,27 +75,27 @@ pip install pandas scikit-learn
 
 ---
 
-Step 3: Train the Model
+### Step 3: Train the Model
 ```bash
 python train_model.py
 ```
 
 ---
 
-Step 4: Run the Project
+### Step 4: Run the Project
 ```bash
 python scam_detector.py
 ```
 
 ---
 
-📌 Sample Output
+## 📌 Sample Output
 Enter a message: Your account has been blocked. Click here to verify.
 Prediction: Scam Message
 
 ---
 
-💡 Future Improvements
+##💡 Future Improvements
 
 - Add a graphical user interface (GUI)
 - Improve accuracy with larger dataset
@@ -105,7 +105,7 @@ Prediction: Scam Message
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Prachi Kumari
 Computer Science Engineering Student
@@ -113,8 +113,9 @@ Interested in Python, Machine Learning & AI
 
 ---
 
-📎 Note
+## 📎 Note
 
 This project is created for learning and educational purposes. It demonstrates the basic implementation of Machine Learning concepts in real-world scenarios.
+
 
 
