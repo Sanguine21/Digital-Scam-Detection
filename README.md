@@ -38,14 +38,14 @@ It is designed as a beginner-friendly project to understand how AI can be applie
 
 📂 Project Structure
 
-Digital-Scam-Detection/
+Digital-Scam-Detection
 │
-├── train_model.py
-├── scam_detector.py
-├── scam_model.pkl
-├── dataset.csv
-├── requirements.txt
-└── README.md
+├──> train_model.py
+├──> scam_detector.py
+├──> scam_model.pkl
+├──> dataset.csv
+├──> requirements.txt
+|──>README.md
 
 ---
 
@@ -116,4 +116,5 @@ Interested in Python, Machine Learning & AI
 📎 Note
 
 This project is created for learning and educational purposes. It demonstrates the basic implementation of Machine Learning concepts in real-world scenarios.
+
 
