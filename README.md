@@ -95,7 +95,7 @@ Prediction: Scam Message
 
 ---
 
-##💡 Future Improvements
+## 💡 Future Improvements
 
 - Add a graphical user interface (GUI)
 - Improve accuracy with larger dataset
@@ -116,6 +116,7 @@ Interested in Python, Machine Learning & AI
 ## 📎 Note
 
 This project is created for learning and educational purposes. It demonstrates the basic implementation of Machine Learning concepts in real-world scenarios.
+
 
 
 
