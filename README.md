@@ -70,17 +70,22 @@ Download python from: https://www.python.org/downloads/
 ### Step 2: Install Required Libraries
 Open Command Prompt and run:
 ```bash
-python pip install pandas scikit-learn
+pip install pandas scikit-learn
+```
 
 ---
 
 Step 3: Train the Model
+```bash
 python train_model.py
+```
 
 ---
 
 Step 4: Run the Project
+```bash
 python scam_detector.py
+```
 
 ---
 
@@ -111,3 +116,4 @@ Interested in Python, Machine Learning & AI
 📎 Note
 
 This project is created for learning and educational purposes. It demonstrates the basic implementation of Machine Learning concepts in real-world scenarios.
+
