@@ -90,7 +90,7 @@ python scam_detector.py
 ---
 
 ## 📌 Sample Output
-Enter a message: Your account has been blocked. Click here to verify.
+Enter a message: Your account has been blocked. Click here to verify.  
 Prediction: Scam Message
 
 ---
@@ -116,6 +116,7 @@ Interested in Python, Machine Learning & AI
 ## 📎 Note
 
 This project is created for learning and educational purposes. It demonstrates the basic implementation of Machine Learning concepts in real-world scenarios.
+
 
 
 
