@@ -47,6 +47,17 @@ Digital-Scam-Detection/
 ├──> requirements.txt
 |──>README.md
 
+## 📁 Project Structure
+
+Digital-Scam-Detection/
+│
+├── train_model.py
+├── scam_detector.py
+├── scam_model.pkl
+├── dataset.csv
+├── requirements.txt
+└── README.md
+
 ---
 
 ## ⚙️ How the Project Works
@@ -116,6 +127,7 @@ Interested in Python, Machine Learning & AI
 ## 📎 Note
 
 This project is created for learning and educational purposes. It demonstrates the basic implementation of Machine Learning concepts in real-world scenarios.
+
 
 
 
